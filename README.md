@@ -1,1 +1,1 @@
-- The link to my site: http://danyd.me
+- The link to my website: http://danyd.me
